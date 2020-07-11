@@ -1,0 +1,308 @@
+
+.block2 {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+.services {
+    margin-top: 60px;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #ED1B24;
+}
+
+.A2P {
+    font-size: 40px;
+    line-height: 100%;
+    text-align: center;
+    color: #060402;
+}
+
+.sep {
+    margin-top: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.containerBl {
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.bl1 {
+    width: 407px;
+    height: 380px;
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+}
+
+.message {
+    left: 25%;
+    right: 70%;
+    top: 23%;
+    bottom: 75%;
+}
+
+.vectorMessage {
+    margin-top: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.BulkMessaging {
+    margin-top: 56px;
+    font-size: 24px;
+    line-height: 100%;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #060402;
+}
+
+.textBulkMessaging {
+    margin-top: 22px;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #202020;
+}
+
+.union1 {
+    margin-top: -290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.bl2 {
+    width: 407px;
+    height: 380px;
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+}
+
+.locked {
+    margin-top: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.Authentivation {
+    margin-top: 42px;
+    font-size: 24px;
+    line-height: 100%;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #060402;
+}
+
+.textAuthentivation {
+    margin-top: 22px;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #202020;
+}
+
+.union2 {
+    margin-top: -290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bl3 {
+    width: 407px;
+    height: 380px;
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+}
+
+.notification {
+    margin-top: 22px;
+    margin-top: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.Notification {
+    margin-top: 40px;
+    font-size: 24px;
+    line-height: 100%;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #060402;
+}
+
+.textNotification {
+    margin-top: 22px;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #202020;
+}
+
+.union3 {
+    margin-top: -290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bl4 {
+    margin-top: 25px;
+    width: 407px;
+    height: 380px;
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+}
+
+.API {
+    margin-top: 56px;
+    margin-top: 80px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.smsApi {
+    margin-top: 22px;
+    font-size: 24px;
+    line-height: 100%;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #060402;
+}
+
+.textSmsApi {
+    margin-top: 42px;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #202020;
+}
+
+.union4 {
+    margin-top: -290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bl5 {
+    margin-top: 20px;
+    width: 407px;
+    height: 380px;
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+}
+
+.verified {
+    margin-top: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.verify {
+    margin-top: 40px;
+    font-size: 24px;
+    line-height: 100%;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #060402;
+}
+
+.textVerify {
+    margin-top: 40px;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #202020;
+}
+
+.union5 {
+    margin-top: -290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bl6 {
+    margin-top: 20px;
+    width: 407px;
+    height: 380px;
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+}
+
+.web {
+    margin-top: 74px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.webSMS {
+    margin-top: 43px;
+    font-size: 24px;
+    line-height: 100%;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #060402;
+}
+
+.textWebSMS {
+    margin-top: 22px;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #202020;
+}
+
+.union6 {
+    margin-top: -290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.element2 {
+
+}
+
+.element3 {
+
+}

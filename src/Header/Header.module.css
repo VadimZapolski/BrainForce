@@ -1,0 +1,68 @@
+.header {
+    background-color: white;
+    height: 66px
+}
+.headerContainer {
+    width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+.logo {
+
+}
+
+.nav {
+    display: flex;
+}
+
+.navItems {
+
+}
+
+.navItem {
+    font-family: Kanit;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    color: #060402;
+    margin-left: 60px;
+}
+.logIn {
+    margin-left: 110px;
+}
+
+.logItem {
+    position: relative;
+}
+
+.logItem:first-child {
+    margin-right: 92px;
+}
+
+.logItem:first-child::before{
+    content: "";
+    position: absolute;
+    right: -9px;
+    top: 13px;
+    background-image: url("../img/vector.png");
+    width: 7px;
+    height: 4px;
+}
+
+.logItem:last-child::after{
+    content: "";
+    position: absolute;
+    left: -26px;
+    top: 6px;
+    background-image: url("../img/imageLanguages.png");
+    width: 20px;
+    height: 14px;
+}
+
+
+

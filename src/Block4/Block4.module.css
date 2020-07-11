@@ -1,0 +1,59 @@
+.block4 {
+
+    width: 1280px;
+    margin: 60px auto auto auto;
+    height: 695px;
+    display: flex;
+    justify-content: space-between;
+}
+.containerText {
+
+}
+.sepBlock4 {
+
+    background: #ED1B24;
+}
+
+.text1 {
+    font-size: 40px;
+    line-height: 100%;
+    display: flex;
+    align-items: center;
+    color: #060402;
+}
+
+.text2 {
+    margin-top: 62px;
+    width: 740px;
+    height: 288px;
+    font-size: 24px;
+    line-height: 36px;
+    color: #ED1B24;
+}
+
+.text3 {
+    font-size: 24px;
+    line-height: 36px;
+    color: #060402;
+}
+
+.text4 {
+    font-size: 24px;
+    line-height: 36px;
+    color: #060402;
+}
+
+.text4 span{
+    font-size: 24px;
+    line-height: 36px;
+    color: #ED1B24;
+}
+
+.pictures {
+    position: absolute;
+    left: 1100px;
+    top: 2862px;
+}
+.Subtract {
+
+}

@@ -1,0 +1,32 @@
+.screen1 {
+    height: 800px;
+    background-image: url("./../img/banner.png");
+}
+
+.container {
+    width: 1280px;
+    margin: 0 auto;
+}
+.content {
+    width: 583px;
+    margin-top: 150px;
+}
+
+.title {
+    font-size: 70px;
+    line-height: 105px;
+    color: #060402;
+    font-weight: normal;
+}
+
+.description {
+    font-size: 24px;
+    line-height: 36px;
+    color: #ED1B24;
+}
+
+.description span {
+    color: grey;
+}
+
+

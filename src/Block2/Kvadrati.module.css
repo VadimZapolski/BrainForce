@@ -1,0 +1,42 @@
+.bl1 {
+    width: 407px;
+    height: 380px;
+    background: #FFFFFF;
+    border: 1px solid #C4C4C4;
+    box-sizing: border-box;
+    margin-top: 25px;
+}
+
+.vectorMessage {
+    margin-top: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.union1 {
+    margin-top: -135px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.BulkMessaging {
+    margin-top: -150px;
+    font-size: 24px;
+    line-height: 100%;
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #060402;
+}
+
+.textBulkMessaging {
+    margin-top: 22px;
+    font-weight: 200;
+    font-size: 16px;
+    line-height: 140%;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #202020;
+}

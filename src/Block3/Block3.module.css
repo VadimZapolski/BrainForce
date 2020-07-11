@@ -1,0 +1,42 @@
+.block3 {
+    height: 723px;
+    background-image: url("./../img/imageBlock3.png");
+}
+
+.container {
+    width: 1280px;
+    margin: 0 auto;
+}
+.messages {
+    position: absolute;
+    left: 1086px;
+    top: 2110px;
+    opacity: 0.8;
+}
+
+.sepBlock3 {
+ margin-top: 20px;
+}
+
+.text1 {
+    font-size: 40px;
+    line-height: 100%;
+    display: flex;
+    align-items: center;
+    color: #060402;
+}
+
+.text2 {
+    margin-top: 60px;
+    width: 740px;
+    font-size: 24px;
+    line-height: 36px;
+    color: #060402;
+}
+
+.text3 {
+    margin-top: 16px;
+    font-size: 24px;
+    line-height: 36px;
+    color: #ED1B24;
+}

@@ -1,0 +1,13 @@
+button {
+    background: linear-gradient(177.93deg, #A91D1C 6.92%, #ED1B24 93.08%);
+    border-radius: 100px;
+    width: 266px;
+    height: 60px;
+    font-size: 18px;
+    line-height: 27px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: none;
+    margin-top: 43px;
+}
+
