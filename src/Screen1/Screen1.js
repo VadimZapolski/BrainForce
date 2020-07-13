@@ -1,6 +1,6 @@
 import React from 'react';
 import style from './Screen1.module.css' ;
-import Header from "../Header/Header";
+import Header from "./Header/Header";
 import ButtonContactSales from "./ButtonContactSales/ButtonContactSales";
 
 

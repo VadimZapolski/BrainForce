@@ -15,7 +15,9 @@ function Block3() {
                 <div className={style.text2}>Maximize your revenues by broadcasting your great message to potential
                     customers at predefined time & location such as shopping centers , convention centers , airport ect.
                 </div>
+
                 <div className={style.text3}>Learn more about LBS…</div>
+
                 <img src={messages} className={style.messages}/>
             </div>
         </div>

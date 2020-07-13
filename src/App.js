@@ -4,13 +4,12 @@ import Screen1 from "./Screen1/Screen1";
 import Block2 from "./Block2/Block2";
 import Block3 from "./Block3/Block3";
 import Block4 from "./Block4/Block4";
-import Header from "./Header/Header";
+
 
 
 function App() {
     return (
         <div className="App">
-            {/*<Header/>*/}
             <Screen1/>
             <Block2/>
             <Block3/>

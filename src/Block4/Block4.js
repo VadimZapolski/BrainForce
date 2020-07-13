@@ -21,7 +21,8 @@ function Block4() {
                 and can cover any device.</p>
             </p>
             <p className={style.text4}>For more multimedia messaging information <span>contact sales.</span></p>
-        </div>
+
+            </div>
             <img src={pictures} className={style.pictures}  />
             <img src={Subtract} className={style.Subtract} />
         </div>

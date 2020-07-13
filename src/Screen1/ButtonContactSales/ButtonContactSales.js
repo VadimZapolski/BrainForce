@@ -1,5 +1,4 @@
 import React from 'react';
-import Button from '@material-ui/core/Button';
 import TextField from '@material-ui/core/TextField';
 import Dialog from '@material-ui/core/Dialog';
 import DialogActions from '@material-ui/core/DialogActions';
@@ -20,7 +19,7 @@ export default function ButtonContactSales() {
 
     return (
         <div>
-            <button  onClick={handleClickOpen} >Contact sales</button>
+            <button onClick={handleClickOpen} >Contact sales</button>
             <Dialog open={open} onClose={handleClose} aria-labelledby="form-dialog-title">
                 <DialogTitle id="form-dialog-title">Contact our sales service</DialogTitle>
                 <DialogContent>
@@ -42,18 +41,18 @@ export default function ButtonContactSales() {
                     />
                     <TextField
                         label="SendData"
-                        type="data"
+                        type="datetime"
                         fullWidth
                     />
 
                 </DialogContent>
                 <DialogActions>
-                    <Button onClick={handleClose} color="primary">
+                    <button onClick={handleClose} color="primary">
                         Cancel
-                    </Button>
-                    <Button onClick={handleClose} color="primary">
+                    </button>
+                    <button onClick={handleClose} color="primary">
                         Subscribe
-                    </Button>
+                    </button>
                 </DialogActions>
             </Dialog>
         </div>

@@ -10,7 +10,7 @@
 .messages {
     position: absolute;
     left: 1086px;
-    top: 2110px;
+    top: 1950px;
     opacity: 0.8;
 }
 
@@ -24,6 +24,7 @@
     display: flex;
     align-items: center;
     color: #060402;
+    margin-top: 80px;
 }
 
 .text2 {
