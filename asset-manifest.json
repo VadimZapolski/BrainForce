@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/BrainForce/static/css/main.be9c10d4.chunk.css",
+    "main.js": "/BrainForce/static/js/main.beb63a92.chunk.js",
+    "main.js.map": "/BrainForce/static/js/main.beb63a92.chunk.js.map",
+    "runtime-main.js": "/BrainForce/static/js/runtime-main.d2c81aae.js",
+    "runtime-main.js.map": "/BrainForce/static/js/runtime-main.d2c81aae.js.map",
+    "static/js/2.836f8dea.chunk.js": "/BrainForce/static/js/2.836f8dea.chunk.js",
+    "static/js/2.836f8dea.chunk.js.map": "/BrainForce/static/js/2.836f8dea.chunk.js.map",
+    "index.html": "/BrainForce/index.html",
+    "precache-manifest.cfb4494b73bdcf2607c01c523dc2958f.js": "/BrainForce/precache-manifest.cfb4494b73bdcf2607c01c523dc2958f.js",
+    "service-worker.js": "/BrainForce/service-worker.js",
+    "static/css/main.be9c10d4.chunk.css.map": "/BrainForce/static/css/main.be9c10d4.chunk.css.map",
+    "static/js/2.836f8dea.chunk.js.LICENSE.txt": "/BrainForce/static/js/2.836f8dea.chunk.js.LICENSE.txt",
+    "static/media/Subtract.png": "/BrainForce/static/media/Subtract.69f40e54.png",
+    "static/media/Screen1.module.css": "/BrainForce/static/media/banner.dc4679e9.png",
+    "static/media/element2.png": "/BrainForce/static/media/element2.9c9bac17.png",
+    "static/media/element3.png": "/BrainForce/static/media/element3.ba9e71b7.png",
+    "static/media/Block3.module.css": "/BrainForce/static/media/imageBlock3.d2f5b23c.png",
+    "static/media/messages.png": "/BrainForce/static/media/messages.92af6710.png",
+    "static/media/pictures.png": "/BrainForce/static/media/pictures.f8320362.png",
+    "static/media/union.png": "/BrainForce/static/media/union.cf10313c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2c81aae.js",
+    "static/js/2.836f8dea.chunk.js",
+    "static/css/main.be9c10d4.chunk.css",
+    "static/js/main.beb63a92.chunk.js"
+  ]
+}
